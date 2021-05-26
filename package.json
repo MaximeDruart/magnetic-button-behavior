@@ -1,0 +1,16 @@
+{
+  "name": "magnetic-button",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2.3.4"
+  },
+  "dependencies": {
+    "@area17/a17-helpers": "^2.1.1",
+    "gsap": "^3.6.1"
+  }
+}

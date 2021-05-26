@@ -1,0 +1,32 @@
+body {
+  background: rgb(34, 34, 34);
+}
+
+[data-magneticbehavior-innerbutton] {
+  transform-origin: center;
+}
+
+.magnetic-button {
+  border: none;
+  outline: none;
+  padding: 28px 70px;
+  background: white;
+  color: black;
+  border-radius: 60px;
+  font-weight: bold;
+  cursor: pointer;
+  font-size: 25px;
+}
+
+.container {
+  margin-top: 80px;
+  display: flex;
+  justify-content: center;
+}
+
+.magnetic-button:hover {
+}
+
+.magnetic-button:focus {
+  outline: none;
+}
