@@ -1,5 +1,4 @@
 import createBehavior from "@area17/a17-helpers/src/utility/createBehavior"
-import gsap from "gsap"
 import { getDistance, lerp } from "./utils"
 
 const Magnetic2Behavior = createBehavior(

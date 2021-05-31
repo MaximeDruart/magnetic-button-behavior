@@ -6,8 +6,6 @@ import responsiveImageUpdate from "@area17/a17-helpers/src/utility/responsiveIma
 import focusDisplayHandler from "@area17/a17-helpers/src/utility/focusDisplayHandler"
 import * as Behaviors from "./behaviors"
 
-console.log(Behaviors)
-
 /*
 
   A17
